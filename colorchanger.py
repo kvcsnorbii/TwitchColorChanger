@@ -11,7 +11,7 @@ brightColorsOnly = "true" # If you set this to "true", the script will only gene
 customColors = [ ] # put custom colors here if you don't want random colors; use the following format: ['#111111', '#FF00FF', '#2F2B2A', '#B3F9FF', '#484766']; Put nothing in between the [ ] if you want random colors!; custom colors will override the brightColorsOnly setting!
 colorChangeMin = 4000  # minimum time between every color change (in milliseconds); don't set this too low!
 colorChangeMax = 7500  # maximum time between every color change (in milliseconds)
-twitchName = "beatz41"  # your Twitch name
+twitchName = "kvcsnorbii"  # your Twitch name
 twitchOAuthToken = "oauth:***"  # your OAuth token; don't remove the PASS at the beginning; get one from: https://twitchapps.com/tmi/
 # End of settings; if you changed the settings above, you can now run this script by double-clicking the file OR by opening the console and running "py FILENAME"
 
